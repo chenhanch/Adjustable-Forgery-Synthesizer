@@ -16,4 +16,4 @@ python test.py
 
 ## Result
 
-![result](.\example.png)
+![result](https://github.com/chenhanch/Adjustable-Forgery-Synthesizer/blob/main/example.png)
